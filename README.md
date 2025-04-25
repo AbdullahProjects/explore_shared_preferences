@@ -44,5 +44,4 @@ SharedPreferences is a **lightweight and fast** solution for storing simple key-
 
 1. Clone the repo  
 ```bash
-git clone https://github.com/yourusername/shared_preferences_demo_flutter.git
-cd shared_preferences_demo_flutter
+git clone https://github.com/AbdullahProjects/explore_shared_preferences.git
