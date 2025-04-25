@@ -34,7 +34,7 @@ SharedPreferences is a **lightweight and fast** solution for storing simple key-
 
 ---
 
-## 🖼 Demo Screenshot
+## 🖼 Demo
 
 ![screenshot](https://github.com/AbdullahProjects/explore_shared_preferences/blob/main/Screen%20Recording%202025-04-25%20120923.gif)
 
